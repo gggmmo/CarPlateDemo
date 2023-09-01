@@ -29,9 +29,7 @@ struct ContentView: View {
                 } label: {
                     Image(imgCon.name)
                 }
-
             }
-            
             ResultView(imageContainer: $selectedImageCon)
         }
     }

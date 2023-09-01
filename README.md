@@ -13,5 +13,5 @@ This is a demo project of bluring a car plate in Taiwan. It is using OpenCV (htt
 - iPad mini (iOS 16.4)
 
 ## Building the project
-To build the project, you need to download the OpenCV iOS pack from: https://opencv.org/releases/ and put the `opencv2.framework` under `OpenCV\` directory.
+To build the project, you need to download the OpenCV iOS pack from: https://opencv.org/releases/ and put the `opencv2.framework` under `CarPlateDemo\OpenCV\` directory.
 
