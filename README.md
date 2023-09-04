@@ -15,3 +15,5 @@ This is a demo project of bluring a car plate in Taiwan. It is using OpenCV (htt
 ## Building the project
 To build the project, you need to download the OpenCV iOS pack from: https://opencv.org/releases/ and put the `opencv2.framework` under `CarPlateDemo\OpenCV\` directory.
 
+## TODO
+The accuracy of car plate recognition needs to be improved. Perhaps using AI model is a better way.
